@@ -4,4 +4,4 @@
 	strategically timed study sessions, tracking tasks, and mental breaks prompted by
 	relaxing music.**
 	
-    https://rishika-05.github.io/Web-O-Code/. 
+    https://rishika-05.github.io/Web-O-Code/ 
